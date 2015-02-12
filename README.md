@@ -2,4 +2,5 @@
 02assignment_cs582
 
 # Algorithm
+This algorithm can be 
 
