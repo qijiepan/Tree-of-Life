@@ -13,6 +13,7 @@ This algorithm can be split in several steps:
 # draw the tree
 
 When the global variable is more than 2, it will draw the node again and again until there are only two nodes left. The x axis position is decide by the the order from the data. Thx y axis position is decide by the global variable. 
+And when put all the polygon in the picture, draw the line whose position exisited in another list - alist. The lines show the connections between nodes.
 
 # tree 
  ![](https://github.com/qijiepan/Tree-of-Life/blob/master/tree.png)
